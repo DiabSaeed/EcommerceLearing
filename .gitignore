@@ -1,0 +1,11 @@
+.env
+
+airflow/logs/
+airflow/__pycache__/
+__pycache__/
+
+dbt/target/
+dbt/logs/
+dbt/.user.yml
+
+*.pyc
